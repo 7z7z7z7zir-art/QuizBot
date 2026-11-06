@@ -1,0 +1,4 @@
+keys.env
+database/quiz.db
+__pycache__/
+*.pyc
